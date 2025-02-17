@@ -38,9 +38,9 @@ More: https://github.com/COWANBAS/Sem_Logs
 
 More: https://github.com/COWANBAS/Bloquear_Rastreadores
 
-* Youtube with ads and shorts, Ad bypass too*
+*Youtube with ads and shorts, Ad bypass too*
 
-*Removes all YouTube shorts and with it the ads too (I use it at min because the adblock itself is detected by YouTube).
+* Removes all YouTube shorts and with it the ads too (I use it at min because the adblock itself is detected by YouTube).
 
 More: https://github.com/COWANBAS/YouTube_Adb
 
