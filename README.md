@@ -38,7 +38,7 @@ User script that removes Google Analytics and cookies automatically to try to re
 
 More: https://github.com/COWANBAS/Bloquear_Rastreadores
 
-*Youtube with ads and shorts*
+*Youtube with ads and shorts, Ad bypass too*
 
 Removes all YouTube shorts and with it the ads too (I use it at min because the adblock itself is detected by YouTube).
 
