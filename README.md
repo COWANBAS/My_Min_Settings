@@ -3,6 +3,8 @@ I created the settings to use in Min Browser, adapted them so that they were per
 
 Min: https://github.com/minbrowser/min
 
+How to use scripts in min: https://github.com/minbrowser/min/wiki/userscripts
+
 # SCRIPTS
 
 *privacy*
