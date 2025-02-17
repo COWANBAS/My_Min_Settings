@@ -1,2 +1,2 @@
 # My Settings
-Only my min browser settings and UserScripts.
+I created the settings to use in Min Browser, adapted them so that they were perfect and also the user scripts that I use in my daily life.
