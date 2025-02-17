@@ -1,2 +1,2 @@
-# My_Settings
-My min browser settings and UserScripts.
+# My Settings
+Only my min browser settings and UserScripts.
